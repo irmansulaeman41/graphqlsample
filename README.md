@@ -1,1 +1,1 @@
-# graphqlsample
+# GraphQL Sample
